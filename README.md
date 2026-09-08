@@ -82,7 +82,7 @@
   - 专注开始后自动最小化非白名单应用，专注结束自动停止干预。
   - 支持白名单配置，白名单应用不受影响。
 
-## ChillPatcherLite
+## ChillPatcherLite（ChillPatcher轻量版）
 - **仓库**：[![anyukari/ChillPatcherLite](https://img.shields.io/github/stars/anyukari/ChillPatcherLite?label=anyukari%2FChillPatcherLite&style=flat-square)](https://github.com/anyukari/ChillPatcherLite)
 - **简介**：从 ChillPatcher 拆出的轻量级 BepInEx 插件，只保留游戏UI位置更改和音乐封面放大显示。
 - **许可**：GPLv3
