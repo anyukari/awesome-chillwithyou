@@ -67,3 +67,25 @@
 - **License**: MIT
 - **Localization**: Chinese only.
 - **System Support**: Windows (supported); Linux (unknown); MacOS (unknown)
+
+## ChillClock (Focus Clock)
+
+- **Repository**: [![anyukari/ChillClock](https://img.shields.io/github/stars/anyukari/ChillClock?label=anyukari%2FChillClock&style=flat-square)](https://github.com/anyukari/ChillClock)
+- **Description**: A BepInEx plugin for "Chill with You: Lo-Fi Story" that disables apps outside the whitelist while Satone is in focus mode.
+- **License**: MIT
+- **Localization**: Chinese, English, Japanese
+- **System Support**: Windows only
+- **Features**:
+  - Automatically minimizes non-whitelisted apps when focus starts, and stops intervention when focus ends.
+  - Supports whitelist configuration; whitelisted apps are unaffected.
+
+## ChillPatcherLite (Lightweight ChillPatcher)
+
+- **Repository**: [![anyukari/ChillPatcherLite](https://img.shields.io/github/stars/anyukari/ChillPatcherLite?label=anyukari%2FChillPatcherLite&style=flat-square)](https://github.com/anyukari/ChillPatcherLite)
+- **Description**: A lightweight BepInEx plugin split from ChillPatcher that keeps only the game UI rearrangement and enlarged music cover features.
+- **License**: GPLv3
+- **Localization**: Documentation (Chinese, English, Japanese); the mod itself has no specific language.
+- **System Support**: Windows only
+- **Features**:
+  - Rearranges the game UI into a music-player-like layout.
+  - Shows a 2x square album-art button for the currently playing track.
