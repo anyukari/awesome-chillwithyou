@@ -71,3 +71,23 @@
 - **许可**：MIT
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
+
+## ChillClock（专注时钟）
+- **仓库**：[![anyukari/ChillClock](https://img.shields.io/github/stars/anyukari/ChillClock?label=anyukari%2FChillClock&style=flat-square)](https://github.com/anyukari/ChillClock)
+- **简介**：用于《放松时光：与你共享Lo-Fi故事》的 BepInEx 插件，在聪音专注时禁用白名单以外的应用。
+- **许可**：MIT
+- **本地化**：中文、英文、日文
+- **系统支持**：仅 Windows
+- **特性列举**：
+  - 专注开始后自动最小化非白名单应用，专注结束自动停止干预。
+  - 支持白名单配置，白名单应用不受影响。
+
+## ChillPatcherLite
+- **仓库**：[![anyukari/ChillPatcherLite](https://img.shields.io/github/stars/anyukari/ChillPatcherLite?label=anyukari%2FChillPatcherLite&style=flat-square)](https://github.com/anyukari/ChillPatcherLite)
+- **简介**：从 ChillPatcher 拆出的轻量级 BepInEx 插件，只保留游戏UI位置更改和音乐封面放大显示。
+- **许可**：GPLv3
+- **本地化**：文档（中、英、日），Mod 本身无特定语言。
+- **系统支持**：仅 Windows
+- **特性列举**：
+  - 将游戏 UI 重排列为接近音乐播放器的布局。
+  - 播放列表按钮放大 2 倍并显示方形音乐封面。
